@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Miika Kauppinen
+- 🛠️ Im currently working at Ramboll Finland, Circle by Ramboll 
 - 👀 I’m interested in Web development, Modile development
 - 🌱 I’m currently learning: React-native, Python, firebase
 - 📫 How to reach me: LinkedIn or email: maippi34@gmail.com
